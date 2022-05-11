@@ -1,2 +1,3 @@
 # face_recognition
-face recognition model
+open recognition.ipynb to review the code
+
